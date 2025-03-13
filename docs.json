@@ -36,7 +36,14 @@
       },
       {
         "tab": "API Reference",
-        "openapi": "https://app.beta.vesta.com/swagger/25.1/swagger.json"
+        "groups": [
+          {
+            "group": "API Documentation",
+            "pages": [
+              "api-reference/introduction"
+            ]
+          }
+        ]
       }
     ],
     "global": {
