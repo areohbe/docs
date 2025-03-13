@@ -14038,9 +14038,6 @@
               },
               {
                 "$ref": "#/components/schemas/County"
-              },
-              {
-                "type": "null"
               }
             ]
           },
